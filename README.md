@@ -14,15 +14,17 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
-| Area | Technologies |
-|---|---|
-| **Backend** | C#, .NET 8, ASP.NET Core, .NET Web API, Entity Framework Core, LINQ, RESTful APIs |
-| **Frontend** | Angular, TypeScript, JavaScript (ES6+), RxJS, Reactive Forms, HTML5, CSS3, SCSS |
-| **Architecture & Security** | Clean Architecture, Repository Pattern, Dependency Injection, SOLID, JWT, ASP.NET Core Identity |
-| **Database** | Microsoft SQL Server, T-SQL, Stored Procedures, Schema Design, Indexing, Query Optimization |
-| **Tools** | Visual Studio 2022, VS Code, SSMS, Git, GitHub, Postman, Swagger/OpenAPI |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sass,sql,git,github,visualstudio,vscode" alt="Technology skills" />
+</p>
+
+**Backend:** C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, LINQ, RESTful APIs  
+**Frontend:** Angular, TypeScript, JavaScript (ES6+), RxJS, Reactive Forms, HTML5, CSS3, SCSS  
+**Architecture & Security:** Clean Architecture, Repository Pattern, Dependency Injection, SOLID, JWT, ASP.NET Core Identity  
+**Database:** Microsoft SQL Server, T-SQL, Stored Procedures, Schema Design, Indexing, Query Optimization  
+**Tools:** Visual Studio 2022, VS Code, SSMS, Git, GitHub, Postman, Swagger/OpenAPI
 
 ---
 
@@ -58,6 +60,19 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahzulfiqar137&show_icons=true&hide_border=true&theme=tokyonight" alt="Abdullah's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahzulfiqar137&hide_border=true&theme=tokyonight" alt="Abdullah's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzulfiqar137&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+</p>
+
+---
+
 ## 🎓 Education
 
 - **Bachelor of Science in Information Technology and Management** — NCBA&E, Lahore  
@@ -77,10 +92,11 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
 
 ## 📫 Connect With Me
 
-- **Portfolio:** [abdullahzulfiqar137.github.io/Portfolio](https://abdullahzulfiqar137.github.io/Portfolio/)
-- **LinkedIn:** [linkedin.com/in/abdullah-zulfiqar-](https://www.linkedin.com/in/abdullah-zulfiqar-/)
-- **GitHub:** [github.com/abdullahzulfiqar137](https://github.com/abdullahzulfiqar137)
-- **Email:** [abdullahzulfiqar137@gmail.com](mailto:abdullahzulfiqar137@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-zulfiqar-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://abdullahzulfiqar137.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:abdullahzulfiqar137@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
