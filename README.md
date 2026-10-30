@@ -108,11 +108,14 @@ My personal portfolio website presenting my skills, background, and software pro
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahzulfiqar137&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
+![Profile views](https://komarev.com/ghpvc/?username=abdullahzulfiqar137&style=for-the-badge&color=7C3AED)
+![GitHub followers](https://img.shields.io/github/followers/abdullahzulfiqar137?style=for-the-badge&color=0EA5E9)
+![Public repositories](https://img.shields.io/badge/Public%20Repositories-Explore-16A34A?style=for-the-badge&logo=github&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzulfiqar137&layout=compact&hide_border=true&theme=tokyonight)
+**Explore my live GitHub activity and contribution history:**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdullahzulfiqar137&theme=tokyonight&hide_border=true)
+[![GitHub Contributions](https://img.shields.io/badge/View-GitHub_Contributions-181717?style=for-the-badge&logo=github)](https://github.com/abdullahzulfiqar137?tab=overview)
+[![Repository Insights](https://img.shields.io/badge/View-Repository_Insights-7C3AED?style=for-the-badge&logo=github)](https://github.com/abdullahzulfiqar137?tab=repositories)
 
 </div>
 
