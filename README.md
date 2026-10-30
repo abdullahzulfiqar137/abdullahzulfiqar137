@@ -108,10 +108,11 @@ My personal portfolio website presenting my skills, background, and software pro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahzulfiqar137&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahzulfiqar137&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahzulfiqar137&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzulfiqar137&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzulfiqar137&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdullahzulfiqar137&theme=tokyonight&hide_border=true)
 
 </div>
 
