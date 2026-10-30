@@ -1,16 +1,18 @@
 # Hi, I'm Abdullah Zulfiqar 👋
 
-### .NET Full Stack Developer | C# | ASP.NET Core | Angular | SQL Server
+### .NET Full Stack Developer | ASP.NET Core | Angular | SQL Server
 
 📍 Lahore, Pakistan  
-📧 [abdullahzulfiqar137@gmail.com](mailto:abdullahzulfiqar137@gmail.com)
+📧 [abdullahzulfiqar137@gmail.com](mailto:abdullahzulfiqar137@gmail.com)  
+🌐 [Portfolio](https://abdullahzulfiqar137.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/abdullah-zulfiqar-/) · [GitHub](https://github.com/abdullahzulfiqar137)
 
-I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building web applications and RESTful APIs. My work focuses on ASP.NET Core, Angular, Entity Framework Core, and SQL Server, with an emphasis on clean, maintainable code and reliable business applications.
+I'm a .NET Full Stack Developer with **3 years of development experience**, focused on building web applications, RESTful APIs, and database-backed business solutions using C#, ASP.NET Core, Angular, and SQL Server.
 
-- 💼 Full Stack .NET Developer at **Awatech Technology Solutions** (2024–Present)
-- 🔧 Building RESTful APIs and modular Angular applications
-- 🛡️ Working with JWT authentication, role-based authorization, and secure API integration
-- 📈 Interested in performance optimization, database design, and scalable application architecture
+- Build and maintain RESTful APIs with ASP.NET Core and Entity Framework Core
+- Develop responsive frontend applications with Angular and TypeScript
+- Work with SQL Server, database design, migrations, and query optimization
+- Apply clean code, layered architecture, dependency injection, and secure authentication
+- Continuously improve application quality through automated builds and tests
 
 ---
 
@@ -20,11 +22,11 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,sass,sql,git,github,visualstudio,vscode" alt="Technology skills" />
 </p>
 
-**Backend:** C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, LINQ, RESTful APIs  
-**Frontend:** Angular, TypeScript, JavaScript (ES6+), RxJS, Reactive Forms, HTML5, CSS3, SCSS  
-**Architecture & Security:** Clean Architecture, Repository Pattern, Dependency Injection, SOLID, JWT, ASP.NET Core Identity  
-**Database:** Microsoft SQL Server, T-SQL, Stored Procedures, Schema Design, Indexing, Query Optimization  
-**Tools:** Visual Studio 2022, VS Code, SSMS, Git, GitHub, Postman, Swagger/OpenAPI
+**Backend:** C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ, REST APIs  
+**Frontend:** Angular, TypeScript, JavaScript, RxJS, Reactive Forms, HTML5, CSS3, SCSS  
+**Architecture & Security:** Clean Architecture, Repository Pattern, Dependency Injection, SOLID, JWT, role-based authorization  
+**Database:** Microsoft SQL Server, T-SQL, schema design, migrations, indexing, query optimization  
+**Tools:** Visual Studio, VS Code, SSMS, Git, GitHub Actions, Postman, Swagger/OpenAPI
 
 ---
 
@@ -33,38 +35,59 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
 **Full Stack .NET Developer — Awatech Technology Solutions**  
 *2024 – Present · Lahore, Pakistan*
 
-- Develop RESTful APIs using ASP.NET Core (.NET 8), Repository Pattern, and Dependency Injection.
-- Build modular frontend features with Angular and TypeScript, using RxJS and Reactive Forms.
-- Implement Entity Framework Core Code-First workflows and database migrations.
-- Design and optimize SQL Server schemas, stored procedures, and indexes.
-- Secure endpoints with JWT authentication and role-based authorization.
-- Support API testing and frontend-backend integration using Swagger and Postman.
+- Develop RESTful APIs using ASP.NET Core, Entity Framework Core, and dependency injection.
+- Build frontend features with Angular and TypeScript.
+- Implement database changes and Code-First migrations.
+- Work with SQL Server schemas, stored procedures, and query performance.
+- Implement JWT authentication and role-based authorization.
+- Test and troubleshoot API and frontend-backend integration using Swagger and Postman.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-### [BizOps Platform — Enterprise Business Operations System](https://github.com/abdullahzulfiqar137/bizops-platform)
-**Angular · ASP.NET Core · EF Core · SQL Server**
+### [BizOps Platform — Business Operations System](https://github.com/abdullahzulfiqar137/bizops-platform)
+**.NET 10 · Angular · EF Core · SQL Server**
 
-- Developed backend APIs for business processes, multi-role authentication, and transaction workflows.
-- Implemented data persistence and transactional integrity using Entity Framework Core and optimized LINQ queries.
-- Built Angular dashboard features with reusable components, reactive forms, and role-based navigation guards.
+A business operations platform covering sales, purchases, inventory, finance, reporting, administration, and database backup workflows.
 
-### [Developer Portfolio Website](https://abdullahzulfiqar137.github.io/Portfolio/)
+- ASP.NET Core API with JWT-based access and role-oriented workflows.
+- Angular client with dashboard and business modules.
+- CI verifies backend tests, frontend checks/build, and Docker image builds.
+
+### [Hospital Management SaaS](https://github.com/abdullahzulfiqar137/HospitalSaaS)
+**.NET 10 · Angular 19 · EF Core · SQL Server**
+
+A healthcare operations platform covering patients, appointments, clinical workflows, admissions, diagnostics, pharmacy, and billing.
+
+- Multi-tenant data access patterns and role-based access.
+- Separate Angular frontend and ASP.NET Core backend.
+- CI runs builds, migrations, and automated tests against SQL Server.
+
+### [E-Commerce Platform](https://github.com/abdullahzulfiqar137/Ecomerence)
+**.NET 10 · Angular · Clean Architecture · SQL Server**
+
+A full-stack e-commerce application with a layered backend and separate frontend.
+
+- Domain, Application, Infrastructure, and API layers.
+- Backend unit and integration test projects.
+- CI verifies 64 unit tests, 28 integration tests, and the frontend build.
+
+### [Developer Portfolio](https://abdullahzulfiqar137.github.io/Portfolio/)
 **Angular · TypeScript · SCSS · GitHub Pages**
 
-- Built reusable, mobile-first Angular components and responsive layouts.
-- Optimized assets and used route lazy-loading to improve performance.
-- Published the portfolio using GitHub Pages.
+My personal portfolio website presenting my skills, background, and software projects.
+
+- Responsive Angular application.
+- Published through GitHub Pages.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahzulfiqar137&show_icons=true&hide_border=true&theme=tokyonight" alt="Abdullah's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahzulfiqar137&hide_border=true&theme=tokyonight" alt="Abdullah's GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahzulfiqar137&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahzulfiqar137&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -75,22 +98,20 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
 
 ## 🎓 Education
 
-- **Bachelor of Science in Information Technology and Management** — NCBA&E, Lahore  
-  *Expected 2027*
-- **Associate Degree Program (ADP) in Information Technology Management** — Riphah International University, Lahore  
-  *2022 – 2024*
+- **NCBA&E, Lahore** — Currently in the 6th semester of the ITM program.
+- **Associate Degree Program (ADP)** — CGPA: **3.28**.
 
 ---
 
 ## 🌐 Languages
 
-- English — Professional Working
-- Urdu — Native
-- Punjabi — Native
+- English
+- Urdu
+- Punjabi
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-zulfiqar-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -100,4 +121,4 @@ I'm a .NET Full Stack Developer with **1+ year of hands-on experience** building
 
 ---
 
-*Building useful software, improving every day.*
+*Building reliable software and improving every day.*
