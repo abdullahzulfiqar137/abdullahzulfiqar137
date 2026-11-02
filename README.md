@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack .NET Developer** with 3+ years of engineering experience, specializing in architecting and delivering high-performance business solutions, SaaS platforms, and enterprise web applications.
+I am a **Full Stack .NET Developer** with 2+ years of engineering experience, specializing in architecting and delivering high-performance business solutions, SaaS platforms, and enterprise web applications.
 
 My core focus centers on building secure, modular backends with **C# and ASP.NET Core (.NET 10)** following **Clean Architecture**, complemented by modern, reactive interfaces with **Angular and TypeScript**, backed by **Microsoft SQL Server**.
 
