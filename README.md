@@ -2,136 +2,147 @@
 
 <div align="center">
 
-# Abdullah Zulfiqar
+# Hi there, I'm Abdullah Zulfiqar 👋
 
-### .NET Full Stack Developer
-**C# · ASP.NET Core Web API · Angular · TypeScript · SQL Server**
+### Full Stack .NET Developer & Software Engineer
+**C# | ASP.NET Core (.NET 10) | Angular | TypeScript | Microsoft SQL Server**
 
-<p>
-  <img src="https://img.shields.io/badge/3%2B%20Years-Development%20Experience-7C3AED?style=for-the-badge" alt="3+ years development experience" />
-  <img src="https://img.shields.io/badge/Lahore-Pakistan-0EA5E9?style=for-the-badge" alt="Lahore, Pakistan" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="3+ Years Experience" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-059669?style=for-the-badge&logo=blueprint&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan" />
 </p>
 
-<a href="https://abdullahzulfiqar137.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdullah-zulfiqar-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abdullahzulfiqar137@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="https://abdullahzulfiqar137.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-zulfiqar-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdullahzulfiqar137@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-I'm a **.NET Full Stack Developer with 3 years of development experience**, building web applications and business solutions with **C#, ASP.NET Core, Angular, and Microsoft SQL Server**.
+I am a **Full Stack .NET Developer** with 3+ years of software development experience, specializing in scalable business systems, SaaS solutions, and enterprise web applications.
 
-I enjoy working across the full application lifecycle — from designing REST APIs and data models to building responsive interfaces, integrating services, testing, and troubleshooting.
+My primary expertise is building robust backend systems using **C# and ASP.NET Core (.NET 10)** following **Clean Architecture** principles, paired with high-performance, responsive frontends in **Angular and TypeScript**, backed by **Microsoft SQL Server**.
 
-- Build RESTful APIs with ASP.NET Core and Entity Framework Core
-- Develop responsive applications with Angular and TypeScript
-- Design and work with relational databases using SQL Server and T-SQL
-- Apply dependency injection, layered architecture, SOLID principles, and secure authentication
-- Use Git, GitHub, Swagger, and Postman in day-to-day development
+- 🚀 **Full Lifecycle Development:** From database schema design and RESTful API architecture to dynamic frontends and deployment.
+- 🏛️ **Architecture & Best Practices:** Clean Architecture, Layered Architecture, SOLID principles, Repository Pattern, and Dependency Injection.
+- 🔐 **Security & Performance:** JWT authentication, Refresh Token rotation, Role-Based Access Control (RBAC), multi-tenancy, and SQL query optimization.
 
-## Technical Skills
+---
 
-| Area | Technologies |
-|---|---|
-| Backend | C#, .NET, ASP.NET Core Web API, Entity Framework Core, LINQ, REST APIs |
-| Frontend | Angular, TypeScript, JavaScript, RxJS, HTML5, CSS3, SCSS |
-| Database | Microsoft SQL Server, T-SQL, schema design, migrations, indexing |
-| Architecture | Clean Architecture, Layered Architecture, Repository Pattern, SOLID, Dependency Injection |
-| Security | JWT authentication, role-based authorization |
-| Tools | Visual Studio, VS Code, SSMS, Git, GitHub, Postman, Swagger/OpenAPI |
+### 🛠️ Technical Stack & Tools
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Backend** | `C#` · `.NET 10` · `ASP.NET Core Web API` · `Entity Framework Core` · `LINQ` · `RESTful APIs` |
+| **Frontend** | `Angular 19/20` · `TypeScript` · `JavaScript (ES6+)` · `RxJS` · `HTML5` · `CSS3` · `SCSS` |
+| **Database** | `Microsoft SQL Server` · `T-SQL` · `Code-First Migrations` · `Indexing & Optimization` |
+| **Architecture** | `Clean Architecture` · `Repository & Unit of Work` · `Dependency Injection` · `SOLID Principles` |
+| **Security** | `ASP.NET Core Identity` · `JWT Bearer Tokens` · `Role-Based Authorization (RBAC)` · `Multi-Tenancy` |
+| **Tools & Testing** | `Visual Studio` · `VS Code` · `SSMS` · `Git` · `GitHub` · `Postman` · `Swagger / OpenAPI` |
+
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
-## Featured Projects
+---
 
-### 1. BizOps Platform — Business Operations System
-[Repository](https://github.com/abdullahzulfiqar137/bizops-platform) · [Project walkthrough](https://raw.githubusercontent.com/abdullahzulfiqar137/Portfolio/main/public/assets/videos/bizops-platform-demo.mp4)
+### 🌟 Featured Projects
 
-A full-stack business operations platform covering sales, purchases, inventory, finance, reporting, and administration.
+#### 1. [BizOps Platform — Enterprise Business Operations & ERP System](https://github.com/abdullahzulfiqar137/bizops-platform)
+> **A full-stack business operations and ERP platform** covering sales, purchases, inventory management, financial records, reporting, and administration.
 
-- ASP.NET Core .NET 10 API and Angular frontend
-- SQL Server and Entity Framework Core
-- Authentication, role-oriented workflows, reporting, and business modules
+- **Stack:** ASP.NET Core (.NET 10), Angular 20, SQL Server, Entity Framework Core, JWT, FluentValidation, Serilog.
+- **Highlights:** Role-based access (Admin, Manager, Staff), customer/supplier ledgers, product catalog with barcode & CSV import, audit trail, automated reporting, and AI assistant integration.
+- **Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/bizops-platform) | [▶️ Video Walkthrough Demo](https://raw.githubusercontent.com/abdullahzulfiqar137/Portfolio/main/public/assets/videos/bizops-platform-demo.mp4)
 
-### 2. Hospital Management SaaS
-[Repository](https://github.com/abdullahzulfiqar137/HospitalSaaS) · [Project walkthrough](https://raw.githubusercontent.com/abdullahzulfiqar137/Portfolio/main/public/assets/videos/hospital-saas-demo.mp4)
+---
 
-A healthcare operations application for patient administration, appointments, clinical workflows, admissions, diagnostics, pharmacy, and billing.
+#### 2. [Hospital Management SaaS — Healthcare Operations Platform](https://github.com/abdullahzulfiqar137/HospitalSaaS)
+> **Multi-tenant healthcare administration software** streamlining patient records, appointments, clinical workflows, admissions, diagnostics, pharmacy, and billing.
 
-- ASP.NET Core .NET 10 API and Angular 19 frontend
-- SQL Server and Entity Framework Core
-- Role-based access and tenant-aware data patterns
+- **Stack:** ASP.NET Core (.NET 10) Web API, Angular 19, Entity Framework Core, SQL Server.
+- **Highlights:** Tenant-aware data segregation, role-based security, appointment scheduling, billing & invoice generation, and responsive clinical portals.
+- **Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/HospitalSaaS) | [▶️ Video Walkthrough Demo](https://raw.githubusercontent.com/abdullahzulfiqar137/Portfolio/main/public/assets/videos/hospital-saas-demo.mp4)
 
-### 3. E-Commerce Platform
-[Repository](https://github.com/abdullahzulfiqar137/Ecomerence)
+---
 
-A full-stack e-commerce solution with a Clean Architecture backend and separate frontend workspace.
+#### 3. [E-Commerce Platform — Clean Architecture API & Frontend](https://github.com/abdullahzulfiqar137/Ecomerence)
+> **Full-stack enterprise e-commerce platform** implemented using strict Clean Architecture (Domain, Application, Infrastructure, API).
 
-- ASP.NET Core .NET 10 and Entity Framework Core
-- Domain, Application, Infrastructure, and API layers
-- SQL Server, plus backend unit and integration test projects
+- **Stack:** ASP.NET Core (.NET 10), Entity Framework Core, SQL Server, Angular.
+- **Highlights:** CQRS / Repository patterns, automated unit and integration tests, shopping cart workflows, secure checkout, and JWT authentication.
+- **Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/Ecomerence)
 
-### 4. Developer Portfolio
-[Live website](https://abdullahzulfiqar137.github.io/Portfolio/) · [Source code](https://github.com/abdullahzulfiqar137/Portfolio)
+---
 
-My personal portfolio showcasing my background, skills, and software projects.
+#### 4. [Developer Portfolio — Responsive Angular Showcase](https://abdullahzulfiqar137.github.io/Portfolio/)
+> **Personal portfolio web application** showcasing technical background, full-stack software projects, and interactive demos.
 
-- Angular and TypeScript
-- Responsive interface
-- Published with GitHub Pages
+- **Stack:** Angular, TypeScript, SCSS, GitHub Pages.
+- **Links:** [🌐 Live Application](https://abdullahzulfiqar137.github.io/Portfolio/) | [📂 Source Code](https://github.com/abdullahzulfiqar137/Portfolio)
 
-## Professional Experience
+---
 
-**Full Stack .NET Developer — Awatech Technology Solutions**  
-*2024 – Present · Lahore, Pakistan*
+### 💼 Professional Experience
 
-- Develop RESTful APIs using ASP.NET Core and Entity Framework Core.
-- Build frontend features using Angular and TypeScript.
-- Implement database changes and Code-First migrations.
-- Work with SQL Server schemas, stored procedures, and query performance.
-- Implement JWT authentication and role-based authorization.
-- Test and troubleshoot API and frontend integration using Swagger and Postman.
+**Full Stack .NET Developer** | **Awatech Technology Solutions**  
+*2024 – Present | Lahore, Pakistan*
 
-## Education
+- Architect and implement high-throughput RESTful Web APIs using ASP.NET Core and Entity Framework Core.
+- Build responsive, reactive user interfaces with Angular, TypeScript, and RxJS.
+- Design normalized relational databases, write complex T-SQL queries/stored procedures, and manage Code-First migrations.
+- Implement robust security models using JWT authentication and granular Role-Based Access Control (RBAC).
+- Collaborate on API contracts and end-to-end integration testing using Swagger/OpenAPI and Postman.
 
-- **NCBA&E, Lahore** — Currently in the 6th semester of the ITM program.
-- **Associate Degree Program (ADP)** — CGPA: **3.28**.
+---
 
-## GitHub
+### 🎓 Education
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahzulfiqar137&style=flat-square&color=7C3AED" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abdullahzulfiqar137?style=flat-square&color=0EA5E9" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/abdullahzulfiqar137?affiliations=OWNER&style=flat-square&color=E3B341" alt="GitHub stars" />
-</p>
+- **NCBA&E, Lahore** — Bachelor of Science / ITM Program *(Currently in 6th Semester)*
+- **Associate Degree Program (ADP)** — **CGPA: 3.28**
 
-- [Explore my repositories](https://github.com/abdullahzulfiqar137?tab=repositories)
-- [View my contribution activity](https://github.com/abdullahzulfiqar137?tab=overview)
+---
 
-## Let's Connect
-
-- **Portfolio:** https://abdullahzulfiqar137.github.io/Portfolio/
-- **LinkedIn:** https://www.linkedin.com/in/abdullah-zulfiqar-/
-- **Email:** abdullahzulfiqar137@gmail.com
+### 📊 GitHub Activity & Presence
 
 <div align="center">
 
-*Building reliable software, solving problems, and learning continuously.*
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abdullahzulfiqar137&style=for-the-badge&color=7C3AED" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abdullahzulfiqar137?style=for-the-badge&color=0EA5E9" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abdullahzulfiqar137?affiliations=OWNER&style=for-the-badge&color=EAB308" alt="GitHub Stars" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahzulfiqar137.github.io%2FPortfolio-7C3AED?style=flat-square&logo=google-chrome&logoColor=white)](https://abdullahzulfiqar137.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Zulfiqar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-zulfiqar-/)
+[![Email](https://img.shields.io/badge/Email-abdullahzulfiqar137%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahzulfiqar137@gmail.com)
+
+*“Building reliable, scalable software with passion and continuous learning.”*
 
 </div>
