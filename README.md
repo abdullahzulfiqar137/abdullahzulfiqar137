@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="3+ Years Experience" />
   <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-059669?style=for-the-badge&logo=blueprint&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%26%20CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and CI/CD" />
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan" />
 </p>
 
@@ -30,6 +31,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 
 - 🚀 **Full Lifecycle Engineering:** Designing normalized database schemas, architecting RESTful APIs, and crafting responsive frontend dashboards.
 - 🏛️ **Architecture & Design:** Deep commitment to Clean Architecture, SOLID principles, Repository & Unit of Work patterns, and Dependency Injection.
+- 🐳 **DevOps & Containers:** Automated CI/CD pipelines via GitHub Actions, containerization with Docker, and automated test execution.
 - 🔐 **Security & Performance:** Experience implementing JWT authentication, refresh-token rotation, Role-Based Access Control (RBAC), multi-tenancy, and SQL query tuning.
 
 ---
@@ -44,6 +46,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 | **Frontend** | `Angular 19/20` · `TypeScript` · `JavaScript (ES6+)` · `RxJS` · `HTML5` · `CSS3` · `SCSS` |
 | **Database** | `Microsoft SQL Server` · `T-SQL` · `EF Core Migrations` · `Indexing & Optimization` |
 | **Architecture** | `Clean Architecture` · `Layered Pattern` · `Repository & UoW` · `SOLID` · `Dependency Injection` |
+| **DevOps & Cloud** | `Docker` · `GitHub Actions (CI/CD Pipelines)` · `GitHub Pages` · `Container Builds` |
 | **Security** | `ASP.NET Core Identity` · `JWT Bearer Auth` · `Role-Based Authorization` · `Multi-Tenancy` |
 | **Tools & Testing** | `Visual Studio` · `VS Code` · `SSMS` · `Git` · `GitHub` · `Postman` · `Swagger / OpenAPI` |
 
@@ -55,6 +58,8 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
@@ -72,7 +77,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 ```
 > **Full-stack business operations suite** centralizing sales, procurement, inventory tracking, financial accounting, reporting, and administration.
 
-- **Stack:** ASP.NET Core (.NET 10), Angular 20, SQL Server, Entity Framework Core, JWT, FluentValidation, Serilog
+- **Stack:** ASP.NET Core (.NET 10), Angular 20, SQL Server, Entity Framework Core, Docker, GitHub Actions, JWT
 - **Highlights:** Multi-role access control, customer/supplier ledgers, barcode generation & CSV import, audit trails, printable PDF reports, and AI assistant integration.
 - **Direct Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/bizops-platform) · [▶️ Video Walkthrough Demo](https://raw.githubusercontent.com/abdullahzulfiqar137/Portfolio/main/public/assets/videos/bizops-platform-demo.mp4)
 
@@ -85,7 +90,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 ```
 > **Multi-tenant healthcare administration software** streamlining patient records, appointments, clinical workflows, admissions, diagnostics, pharmacy, and billing.
 
-- **Stack:** ASP.NET Core (.NET 10), Angular 19, Entity Framework Core, SQL Server
+- **Stack:** ASP.NET Core (.NET 10), Angular 19, Entity Framework Core, SQL Server, Docker, GitHub Actions
 - **Highlights:** Tenant-aware data isolation, role-based workflows, appointment dispatching, automated medical billing, and responsive doctor/patient views.
 - **Direct Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/HospitalSaaS) · [▶️ Video Walkthrough Demo](https://raw.githubusercontent.com/abdullahzulfiqar137/Portfolio/main/public/assets/videos/hospital-saas-demo.mp4)
 
@@ -100,7 +105,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 
 - **Stack:** ASP.NET Core (.NET 10), Entity Framework Core, SQL Server, Angular
 - **Highlights:** CQRS / Repository patterns, automated unit and integration tests, shopping cart workflows, secure checkout, and JWT authentication.
-- **Direct Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/Ecomerence)
+- **Direct Links:** [📂 GitHub Repository](https://github.com/abdullahzulfiqar137/ecommerce-platform)
 
 <br/>
 
@@ -111,7 +116,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 ```
 > **Interactive portfolio web app** showcasing technical capabilities, system demos, architecture breakdowns, and direct project access.
 
-- **Stack:** Angular, TypeScript, SCSS, GitHub Pages
+- **Stack:** Angular, TypeScript, SCSS, GitHub Pages, MIT License
 - **Direct Links:** [🌐 Live Application](https://abdullahzulfiqar137.github.io/Portfolio/) · [📂 Source Code](https://github.com/abdullahzulfiqar137/Portfolio)
 
 ---
@@ -125,7 +130,7 @@ My core focus centers on building secure, modular backends with **C# and ASP.NET
 - Engineer dynamic, reactive user experiences with Angular, TypeScript, and RxJS state streams.
 - Design normalized relational databases, author optimized T-SQL queries/stored procedures, and manage migrations.
 - Enforce enterprise security standards using JWT tokens and granular Role-Based Access Control (RBAC).
-- Conduct API contract reviews and automated testing with Swagger/OpenAPI and Postman.
+- Build and maintain CI/CD pipelines and automated integration testing with Swagger/OpenAPI and Postman.
 
 ---
 
