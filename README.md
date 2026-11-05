@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="3+ Years Experience" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="3+ Years Experience" />
   <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-059669?style=for-the-badge&logo=blueprint&logoColor=white" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/DevOps-Docker%20%26%20CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and CI/CD" />
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan" />
